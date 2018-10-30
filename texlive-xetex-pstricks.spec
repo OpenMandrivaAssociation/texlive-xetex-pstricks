@@ -6,7 +6,7 @@
 # catalog-version undef
 Name:		texlive-xetex-pstricks
 Version:	20180303
-Release:	2
+Release:	3
 Summary:	Running PStricks under XeTeX
 Group:		Publishing
 URL:		http://www.ctan.org/tex-archive/graphics/xetex/pstricks
