@@ -1,6 +1,6 @@
 Name:		texlive-xetex-pstricks
 Version:	17055
-Release:	1
+Release:	2
 Summary:	Running PStricks under XeTeX
 Group:		Publishing
 URL:		http://www.ctan.org/tex-archive/graphics/xetex/pstricks
