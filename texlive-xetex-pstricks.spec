@@ -3,7 +3,7 @@ Version:	17055
 Release:	2
 Summary:	Running PStricks under XeTeX
 Group:		Publishing
-URL:		http://www.ctan.org/tex-archive/graphics/xetex/pstricks
+URL:		https://www.ctan.org/tex-archive/graphics/xetex/pstricks
 License:	PD
 Source0:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/xetex-pstricks.r%{version}.tar.xz
 Source1:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/xetex-pstricks.doc.r%{version}.tar.xz
